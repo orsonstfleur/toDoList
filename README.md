@@ -1,3 +1,3 @@
-![To Do List](list.jpg)
+![To Do List](images/list.jpg)
 
-#HTML Javascript and a little bit of CSS were used to complete a checklist
+##HTML Javascript and a little bit of CSS were used to complete a checklist
